@@ -1,0 +1,4 @@
+3 val
+Stiffness 500.0
+Damping 0.5
+MassDensity 8.0
